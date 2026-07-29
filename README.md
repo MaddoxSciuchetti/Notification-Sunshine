@@ -4,6 +4,10 @@ A minimal macOS 13+ menu-bar app for an Arduino RGB light sensor. It has no
 normal window and no Dock icon. The menu-bar symbol shows one of three levels:
 low, medium, or high sunlight.
 
+![Shining Sun menu-bar app](images/Screenshot%202026-07-28%20at%2018.34.21.png)
+
+![Arduino light-sensor hardware](images/hardware.jpg)
+
 ## Run it
 
 1. Open `Arduino/ShiningSun/ShiningSun.ino` in Arduino IDE, select the board and USB port,
